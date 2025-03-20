@@ -5,7 +5,11 @@
 
     a=7
     print(a)
+    print(type(a))
 7
+<class 'int'>
+
+출력을 보면 a가 7로 정상적으로 출력되고 있고 a의 type을 출력하니 정수형으로 잘 저장된걸 볼 수 있다.
 
     b=128
     print(b)
