@@ -5,3 +5,8 @@
 
     a=7
     print(a)
+7
+
+    b=128
+    print(b)
+128
