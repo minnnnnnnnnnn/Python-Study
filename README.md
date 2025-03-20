@@ -29,6 +29,7 @@
     print(str1, end= "\n")
     print(str2)
 Life is too short
+
 I enjoy coding
 
 출력을 보면 str1, str2 두 문자열 모두 잘 출력이 되는걸 볼 수 있다.
